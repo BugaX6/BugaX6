@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Eduardo (Buga) 👋
 
-<!--
-**BugaX6/BugaX6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º Semestre) no Senac.
+- 💼 Atualmente trabalhando na área administrativa na **UNISA**.
+- 🚀 Focado em aprender o ecossistema **Java** e **Angular**.
+- 🎯 Buscando minha primeira oportunidade no mundo tech.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
+- **Linguagens:** Java, TypeScript, JavaScript
+- **Web:** HTML5, CSS3, Angular
+- **Outros:** Git, GitHub, Lógica de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BugaX6&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+---
+📫 **Como me encontrar:**
+- [Email](mailto:eduardo.simas2001@gmail.com)
