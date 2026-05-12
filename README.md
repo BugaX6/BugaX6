@@ -1,4 +1,4 @@
-# Olá, eu sou o Eduardo (Buga) 👋
+# Olá, eu sou o Eduardo 👋
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º Semestre) no Senac.
