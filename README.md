@@ -1,7 +1,7 @@
 # Olá, eu sou o Eduardo 👋
 
 ### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º Semestre) no Senac.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º Semestre) no Senac.
 - 💼 Atualmente trabalhando na área administrativa na **UNISA**.
 - 🚀 Focado em aprender o ecossistema **Java**.
 - 🎯 Buscando minha primeira oportunidade no mundo tech.
